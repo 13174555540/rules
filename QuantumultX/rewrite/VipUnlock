@@ -1,0 +1,11 @@
+# > 收集各种软件解锁
+# > 更新时间 2022.12.16 19:31
+
+hostname= *kuwo*, *lrts*
+
+# > 酷我音乐解锁@搞机玩家  主机名： *kuwo*, *lrts*
+^https?:\/\/.*(kuwo|lrts).*(music\.pay\?ne|\/a\.p|v\d\/api\/(user\/in|pay\/vi)|\w{3}\/v\d\/user\/vi|\w{3}\/spi\/ms|\w{3}\/v\d\/the|\w{3}\/enc\/use) url script-response-body https://raw.githubusercontent.com/gjwj666/qx/main/kw.js
+^https?:\/\/.*(kuwo|lrts).*(music\.pay\?ui) url script-request-header https://raw.githubusercontent.com/gjwj666/qx/main/kw.js
+
+
+
