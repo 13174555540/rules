@@ -1,6 +1,6 @@
 # > /*  APP开屏广告拦截，APP启动广告拦截！
 # > 某些APP要清除缓存或者重新安装APP，拦截广告才会生效！  
-# > 更新时间  2022.11.27  11:22
+# > 更新时间  2023.01.04  10:26
 # > */  
 
 # > 番茄小说
@@ -39,3 +39,7 @@ host, lf-sourcecdn-tos.bytegecko.com, direct
 
 # > 微博开屏广告
 host, sdkapp.uve.weibo.com, direct
+
+# > 高德地图广告
+host, amdc.m.taobao.com, reject
+
