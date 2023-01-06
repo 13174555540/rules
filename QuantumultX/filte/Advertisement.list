@@ -44,5 +44,5 @@ host, sdkapp.uve.weibo.com, direct
 host, amdc.m.taobao.com, reject
 
 # > 12306去广告
-host, ad.12306.cn direct
+host, ad.12306.cn, direct
 
