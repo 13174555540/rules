@@ -1,3 +1,10 @@
+vmess=Hx-1.r5qtwwvhv9.repl.co:443, method=aes-128-gcm, password=ae2b5980-1fe5-4d39-b7cb-399595835d1a, obfs=wss, obfs-host=Hx-1.r5qtwwvhv9.repl.co, obfs-uri=/ae2b5980-1fe5-4d39-b7cb-399595835d1a, tls-verification=false, fast-open=false, udp-relay=false, aead=true, tag=美国01｜自建｜谷歌云
+trojan=Hx-trojan.r5qtwwvhv9.repl.co:443, password=6822a24d-352f-4c44-bcbf-4eca1207c97b, obfs=wss, obfs-host=Hx-trojan.r5qtwwvhv9.repl.co, obfs-uri=/?ed=2048, tls-verification=false, fast-open=false, udp-relay=false, tag=美国02｜自建｜谷歌云
+shadowsocks=Hx-V2RAY.r5qtwwvhv9.repl.co:443, method=chacha20-ietf-poly1305, password=ci7rieYa, fast-open=false, udp-relay=false, tag=美国03｜自建｜谷歌云
+
+
+
+
 shadowsocks=yzyd-01.cctelescope.xyz:20001, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=112248:Nn5xo6IWwH, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=香港_R_275
 shadowsocks=sh163.safetelescope.cc:12021, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=112248:Nn5xo6IWwH, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=香港_R_120
 shadowsocks=sh163.safetelescope.cc:10020, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=112248:Nn5xo6IWwH, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=韩国_R_311
@@ -21,4 +28,3 @@ shadowsocks=sh163.safetelescope.cc:10007, method=aes-256-cfb, password=hGkQ6915t
 shadowsocks=gzyd-01.cctelescope.xyz:62301, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=112248:Nn5xo6IWwH, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=印度_R_325
 shadowsocks=sh163.safetelescope.cc:62302, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=112248:Nn5xo6IWwH, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=加拿大_R_339
 shadowsocks=sh163.safetelescope.cc:62305, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=112248:Nn5xo6IWwH, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=俄罗斯_R_543
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjaTdyaWVZYQ==@Hx-V2RAY.r5qtwwvhv9.repl.co:443?plugin=v2ray%3Bhost%3DHx-V2RAY.r5qtwwvhv9.repl.co%3Btls
