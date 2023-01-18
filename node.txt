@@ -1,6 +1,6 @@
 trojan=xray-trojanwstls.r5qtwwvhv9.repl.co:443, password=9190fcb8-3194-4f9b-8582-b5e2b63fc6e3, obfs=wss, obfs-host=xray-trojanwstls.r5qtwwvhv9.repl.co, obfs-uri=/9190fcb8-3194-4f9b-8582-b5e2b63fc6e3, tls-verification=false, fast-open=false, udp-relay=false, tag=美国01 自建 谷歌云
 vmess=Hx-1.r5qtwwvhv9.repl.co:443, method=aes-128-gcm, password=ae2b5980-1fe5-4d39-b7cb-399595835d1a, obfs=wss, obfs-host=Hx-1.r5qtwwvhv9.repl.co, obfs-uri=/ae2b5980-1fe5-4d39-b7cb-399595835d1a, tls-verification=false, fast-open=false, udp-relay=false, aead=true, tag=美国02 自建 谷歌云
-
+shadowsocks=xray-shadowsockswstls.r5qtwwvhv9.repl.co:443, method=chacha20-ietf-poly1305, password=f355de0f-5b98-4fb4-9049-52ee18033cc8, fast-open=false, udp-relay=false, tag=美国03 自建 谷歌云
 
 
 shadowsocks=yzyd-01.cctelescope.xyz:20001, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=112248:Nn5xo6IWwH, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=香港_R_275
