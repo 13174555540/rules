@@ -52,3 +52,6 @@ host-suffix, kuwo.cn, direct
 # > 菜鸟裹裹@ddgksf2013
 ;host, amdc.m.taobao.com, reject
 
+# > 微博@ddgksf2013
+; host, sdkapp.uve.weibo.com, direct
+
