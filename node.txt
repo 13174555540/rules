@@ -1,11 +1,7 @@
-trojan=t-rjan.Hx5555.repl.co:443, password=d2ac6519-7bac-4fed-919c-b786cefdc53b, obfs=wss, obfs-host=t-rjan.Hx5555.repl.co, obfs-uri=/d2ac6519-7bac-4fed-919c-b786cefdc53b, tls-verification=false, fast-open=false, udp-relay=false, tag=🇺🇸美国01
-vmess=v-mess.Hx5555.repl.co:443, method=aes-128-gcm, password=aff1df05-8b84-4b35-87d6-e79524e9ee1f, obfs=wss, obfs-host=v-mess.Hx5555.repl.co, obfs-uri=/aff1df05-8b84-4b35-87d6-e79524e9ee1f, tls-verification=false, fast-open=false, udp-relay=false, aead=true, tag=🇺🇸美国02
-trojan=xray-trojanwstls.r5qtwwvhv9.repl.co:443, password=61e0b0a8-a3ac-45e8-9e82-f49598ed0a4b, obfs=wss, obfs-host=xray-trojanwstls.r5qtwwvhv9.repl.co, obfs-uri=/61e0b0a8-a3ac-45e8-9e82-f49598ed0a4b, tls-verification=false, fast-open=false, udp-relay=false, tag=🇮🇳印度01
-vmess=xray-vmesswstls.r5qtwwvhv9.repl.co:443, method=aes-128-gcm, password=ef47ed2e-3a24-40cf-86c6-3e9fcd8b6fec, obfs=wss, obfs-host=xray-vmesswstls.r5qtwwvhv9.repl.co, obfs-uri=/ef47ed2e-3a24-40cf-86c6-3e9fcd8b6fec, tls-verification=false, fast-open=false, udp-relay=false, aead=true, tag=🇮🇳印度 02
+
 
 # > Hong Kong
 vmess://YXV0bzplNGMwNjg0Yi1hMTRhLTQ2ZGItOTU3NS1lNDA2MjAxMGRlYTdAZG93bmxvYWQxaGt0LndpbmRvd3N1cGRhdGUubG9sOjgw?remarks=%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2001&obfsParam=tlu.dl.delivery.mp.microsoft.com&path=/pq/jp2&obfs=websocket&tfo=1&alterId=0
-
 
 # > Japan
 trojan://e4c0684b-a14a-46db-9575-e4062010dea7@20.222.228.18:443?peer=vzwzasc.cn&tfo=1#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2001
