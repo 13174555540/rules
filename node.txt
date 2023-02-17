@@ -1,7 +1,21 @@
 
 
 # > Hong Kong
-vmess://YXV0bzplNGMwNjg0Yi1hMTRhLTQ2ZGItOTU3NS1lNDA2MjAxMGRlYTdAZG93bmxvYWQxaGt0LndpbmRvd3N1cGRhdGUubG9sOjgw?remarks=%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2001&obfsParam=tlu.dl.delivery.mp.microsoft.com&path=/pq/jp2&obfs=websocket&tfo=1&alterId=0
+trojan://2cfd70bb-b715-4497-abd5-197764c06269@hk1.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2001
+
+trojan://2cfd70bb-b715-4497-abd5-197764c06269@hk2.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2002
+
+trojan://2cfd70bb-b715-4497-abd5-197764c06269@hk3.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2003
+
+trojan://2cfd70bb-b715-4497-abd5-197764c06269@hk4.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2004
+
+trojan://2cfd70bb-b715-4497-abd5-197764c06269@hk5.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2005
+
+trojan://2cfd70bb-b715-4497-abd5-197764c06269@hk6.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2006
+
+trojan://2cfd70bb-b715-4497-abd5-197764c06269@hk7.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2007
+
+trojan://2cfd70bb-b715-4497-abd5-197764c06269@hk8.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2008
 
 # > Japan
 trojan://e4c0684b-a14a-46db-9575-e4062010dea7@20.222.228.18:443?peer=vzwzasc.cn&tfo=1#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2001
