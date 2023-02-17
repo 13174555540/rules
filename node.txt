@@ -66,6 +66,22 @@ vmess://YXV0bzplNGMwNjg0Yi1hMTRhLTQ2ZGItOTU3NS1lNDA2MjAxMGRlYTdAemZjLndpbmRvd3N1
 
 vmess://YXV0bzplNGMwNjg0Yi1hMTRhLTQ2ZGItOTU3NS1lNDA2MjAxMGRlYTdAMTYyLjE1OS4xMjguNzI6NDQz?remarks=%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2005&obfsParam=sg1.pqjc.buzz&path=/pq/sg1?ed=2048&obfs=websocket&tls=1&tfo=1&alterId=0
 
+trojan://2cfd70bb-b715-4497-abd5-197764c06269@sg1.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2006
+
+trojan://2cfd70bb-b715-4497-abd5-197764c06269@sg2.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2007
+
+trojan://2cfd70bb-b715-4497-abd5-197764c06269@sg3.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2008
+
+trojan://2cfd70bb-b715-4497-abd5-197764c06269@sg4.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2009
+
+trojan://2cfd70bb-b715-4497-abd5-197764c06269@sg5.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2010
+
+trojan://2cfd70bb-b715-4497-abd5-197764c06269@sg6.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2011
+
+trojan://2cfd70bb-b715-4497-abd5-197764c06269@sg7.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2012
+
+trojan://2cfd70bb-b715-4497-abd5-197764c06269@sg8.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2013
+
 # > Turkey
 
 
