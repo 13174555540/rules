@@ -1,44 +1,87 @@
-trojan://2cfd70bb-b715-4497-abd5-197764c06269@hk1.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2001
-trojan://2cfd70bb-b715-4497-abd5-197764c06269@hk2.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2002
-trojan://2cfd70bb-b715-4497-abd5-197764c06269@hk3.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2003
-trojan://2cfd70bb-b715-4497-abd5-197764c06269@hk4.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2004
-trojan://2cfd70bb-b715-4497-abd5-197764c06269@hk5.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2005
-trojan://2cfd70bb-b715-4497-abd5-197764c06269@hk6.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2006
-trojan://2cfd70bb-b715-4497-abd5-197764c06269@hk7.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2007
-trojan://2cfd70bb-b715-4497-abd5-197764c06269@hk8.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2008
-trojan://e4c0684b-a14a-46db-9575-e4062010dea7@20.222.228.18:443?peer=vzwzasc.cn&tfo=1#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2001
-trojan://e4c0684b-a14a-46db-9575-e4062010dea7@104.208.107.167:443?peer=vzwzasc.cn&tfo=1#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2002
-vmess://YXV0bzplNGMwNjg0Yi1hMTRhLTQ2ZGItOTU3NS1lNDA2MjAxMGRlYTdAemZjLndpbmRvd3N1cGRhdGUxLmNvbTo0NDM?remarks=%F0%9F%87%AF%F0%9F%87%B5%20Japan%2003&obfsParam=jp1.pqjc.buzz&path=/pq/jp1?ed=2048&obfs=websocket&tls=1&tfo=1&alterId=0
-vmess://YXV0bzplNGMwNjg0Yi1hMTRhLTQ2ZGItOTU3NS1lNDA2MjAxMGRlYTdAemZjLndpbmRvd3N1cGRhdGUxLmNvbTo0NDM?remarks=%F0%9F%87%AF%F0%9F%87%B5%20Japan%2004&obfsParam=jp2.pqjc.buzz&path=/pq/jp2?ed=2048&obfs=websocket&tls=1&tfo=1&alterId=0
-vmess://YXV0bzplNGMwNjg0Yi1hMTRhLTQ2ZGItOTU3NS1lNDA2MjAxMGRlYTdAemZjLndpbmRvd3N1cGRhdGUxLmNvbTo0NDM?remarks=%F0%9F%87%AF%F0%9F%87%B5%20Japan%2005&obfsParam=jp3.pqjc.buzz&path=/pq/jp3?ed=2048&obfs=websocket&tls=1&peer=vzwzasc.cn&tfo=1&alterId=0
-vmess://YXV0bzplNGMwNjg0Yi1hMTRhLTQ2ZGItOTU3NS1lNDA2MjAxMGRlYTdAMTYyLjE1OS4xNDIuMjAzOjQ0Mw?remarks=%F0%9F%87%AF%F0%9F%87%B5%20Japan%2006&obfsParam=jp1.pqjc.buzz&path=/pq/jp1?ed=2048&obfs=websocket&tls=1&tfo=1&alterId=0
-trojan://2cfd70bb-b715-4497-abd5-197764c06269@jp1.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2007
-trojan://2cfd70bb-b715-4497-abd5-197764c06269@jp2.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2008
-trojan://e4c0684b-a14a-46db-9575-e4062010dea7@148.59.74.190:443?peer=vzwzasc.cn&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%20America%2001
-trojan://e4c0684b-a14a-46db-9575-e4062010dea7@148.59.74.216:443?peer=vzwzasc.cn&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%20America%2002
-trojan://e4c0684b-a14a-46db-9575-e4062010dea7@148.59.74.221:443?peer=vzwzasc.cn&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%20America%2003
-vmess://YXV0bzplNGMwNjg0Yi1hMTRhLTQ2ZGItOTU3NS1lNDA2MjAxMGRlYTdAemZjLndpbmRvd3N1cGRhdGUxLmNvbTo0NDM?remarks=%F0%9F%87%BA%F0%9F%87%B8%20America%2004&obfsParam=us1.pqjc.buzz&path=/pq/us1?ed=2048&obfs=websocket&tls=1&tfo=1&alterId=0
-trojan://e4c0684b-a14a-46db-9575-e4062010dea7@104.149.140.231:443?peer=vzwzasc.cn&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%20America%2005
-trojan://e4c0684b-a14a-46db-9575-e4062010dea7@74.217.179.35:443?peer=vzwzasc.cn&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%20America%2006
-trojan://2cfd70bb-b715-4497-abd5-197764c06269@us1.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%20America%2007
-trojan://2cfd70bb-b715-4497-abd5-197764c06269@us2.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%20America%2008
-trojan://2cfd70bb-b715-4497-abd5-197764c06269@us3.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%20America%2009
-trojan://2cfd70bb-b715-4497-abd5-197764c06269@us4.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%20America%2010
-trojan://e4c0684b-a14a-46db-9575-e4062010dea7@13.76.85.246:443?peer=vzwzasc.cn&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2001
-trojan://e4c0684b-a14a-46db-9575-e4062010dea7@4.194.114.58:443?peer=vzwzasc.cn&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2002
-vmess://YXV0bzplNGMwNjg0Yi1hMTRhLTQ2ZGItOTU3NS1lNDA2MjAxMGRlYTdAemZjLndpbmRvd3N1cGRhdGUxLmNvbTo0NDM?remarks=%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2003&obfsParam=sg1.pqjc.buzz&path=/pq/sg1?ed=2048&obfs=websocket&tls=1&tfo=1&alterId=0
-vmess://YXV0bzplNGMwNjg0Yi1hMTRhLTQ2ZGItOTU3NS1lNDA2MjAxMGRlYTdAemZjLndpbmRvd3N1cGRhdGUxLmNvbTo0NDM?remarks=%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2004&obfsParam=sg2.pqjc.buzz&path=/pq/sg2?ed=2048&obfs=websocket&tls=1&tfo=1&alterId=0
-vmess://YXV0bzplNGMwNjg0Yi1hMTRhLTQ2ZGItOTU3NS1lNDA2MjAxMGRlYTdAMTYyLjE1OS4xMjguNzI6NDQz?remarks=%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2005&obfsParam=sg1.pqjc.buzz&path=/pq/sg1?ed=2048&obfs=websocket&tls=1&tfo=1&alterId=0
-trojan://2cfd70bb-b715-4497-abd5-197764c06269@sg1.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2006
-trojan://2cfd70bb-b715-4497-abd5-197764c06269@sg2.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2007
-trojan://2cfd70bb-b715-4497-abd5-197764c06269@sg3.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2008
-trojan://2cfd70bb-b715-4497-abd5-197764c06269@sg4.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2009
-trojan://2cfd70bb-b715-4497-abd5-197764c06269@sg5.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2010
-trojan://2cfd70bb-b715-4497-abd5-197764c06269@sg6.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2011
-trojan://2cfd70bb-b715-4497-abd5-197764c06269@sg7.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2012
-trojan://2cfd70bb-b715-4497-abd5-197764c06269@sg8.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2013
-vmess://YXV0bzplNGMwNjg0Yi1hMTRhLTQ2ZGItOTU3NS1lNDA2MjAxMGRlYTdAemZjLndpbmRvd3N1cGRhdGUxLmNvbTo0NDM?remarks=%F0%9F%87%AB%F0%9F%87%B7%20France%2001&obfsParam=fr1.pqjc.buzz&path=/pq/fr1?ed=2048&obfs=websocket&tls=1&tfo=1&alterId=0
-trojan://e4c0684b-a14a-46db-9575-e4062010dea7@84.252.121.218:443?peer=vzwzasc.cn&tfo=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2001
-trojan://2cfd70bb-b715-4497-abd5-197764c06269@de1.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2002
-vmess://YXV0bzplNGMwNjg0Yi1hMTRhLTQ2ZGItOTU3NS1lNDA2MjAxMGRlYTdAemZjLndpbmRvd3N1cGRhdGUxLmNvbTo0NDM?remarks=%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%2001&obfsParam=nl1.pqjc.buzz&path=/pq/nl1?ed=2048&obfs=websocket&tls=1&tfo=1&alterId=0
-vmess://YXV0bzplNGMwNjg0Yi1hMTRhLTQ2ZGItOTU3NS1lNDA2MjAxMGRlYTdAMTYyLjE1OS4xMzMuOTg6NDQz?remarks=%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%2002&obfsParam=nl1.pqjc.buzz&path=/pq/nl1?ed=2048&obfs=websocket&tls=1&tfo=1&alterId=0
+trojan=hk1.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443, password=2cfd70bb-b715-4497-abd5-197764c06269, over-tls=true, tls-verification=false, tls-host=13-251-128-188.nhost.00cdn.com, fast-open=true, udp-relay=false, tag=🇭🇰 Hong Kong 01
+
+trojan=hk2.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443, password=2cfd70bb-b715-4497-abd5-197764c06269, over-tls=true, tls-verification=false, tls-host=13-251-128-188.nhost.00cdn.com, fast-open=true, udp-relay=false, tag=🇭🇰 Hong Kong 02
+
+trojan=hk3.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443, password=2cfd70bb-b715-4497-abd5-197764c06269, over-tls=true, tls-verification=false, tls-host=13-251-128-188.nhost.00cdn.com, fast-open=true, udp-relay=false, tag=🇭🇰 Hong Kong 03
+
+trojan=hk4.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443, password=2cfd70bb-b715-4497-abd5-197764c06269, over-tls=true, tls-verification=false, tls-host=13-251-128-188.nhost.00cdn.com, fast-open=true, udp-relay=false, tag=🇭🇰 Hong Kong 04
+
+trojan=hk5.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443, password=2cfd70bb-b715-4497-abd5-197764c06269, over-tls=true, tls-verification=false, tls-host=13-251-128-188.nhost.00cdn.com, fast-open=true, udp-relay=false, tag=🇭🇰 Hong Kong 05
+
+trojan=hk6.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443, password=2cfd70bb-b715-4497-abd5-197764c06269, over-tls=true, tls-verification=false, tls-host=13-251-128-188.nhost.00cdn.com, fast-open=true, udp-relay=false, tag=🇭🇰 Hong Kong 06
+
+trojan=hk7.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443, password=2cfd70bb-b715-4497-abd5-197764c06269, over-tls=true, tls-verification=false, tls-host=13-251-128-188.nhost.00cdn.com, fast-open=true, udp-relay=false, tag=🇭🇰 Hong Kong 07
+
+trojan=hk8.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443, password=2cfd70bb-b715-4497-abd5-197764c06269, over-tls=true, tls-verification=false, tls-host=13-251-128-188.nhost.00cdn.com, fast-open=true, udp-relay=false, tag=🇭🇰 Hong Kong 08
+
+trojan=20.222.228.18:443, password=e4c0684b-a14a-46db-9575-e4062010dea7, over-tls=true, tls-verification=false, tls-host=vzwzasc.cn, fast-open=true, udp-relay=false, tag=🇯🇵 Japan 01
+
+trojan=104.208.107.167:443, password=e4c0684b-a14a-46db-9575-e4062010dea7, over-tls=true, tls-verification=false, tls-host=vzwzasc.cn, fast-open=true, udp-relay=false, tag=🇯🇵 Japan 02
+
+vmess=zfc.windowsupdate1.com:443, method=aes-128-gcm, password=e4c0684b-a14a-46db-9575-e4062010dea7, obfs=wss, obfs-host=jp1.pqjc.buzz, obfs-uri=/pq/jp1?ed=2048, tls-verification=true, fast-open=true, udp-relay=false, aead=true, tag=🇯🇵 Japan 03
+
+vmess=zfc.windowsupdate1.com:443, method=aes-128-gcm, password=e4c0684b-a14a-46db-9575-e4062010dea7, obfs=wss, obfs-host=jp2.pqjc.buzz, obfs-uri=/pq/jp2?ed=2048, tls-verification=true, fast-open=true, udp-relay=false, aead=true, tag=🇯🇵 Japan 04
+
+vmess=zfc.windowsupdate1.com:443, method=aes-128-gcm, password=e4c0684b-a14a-46db-9575-e4062010dea7, obfs=wss, obfs-host=jp3.pqjc.buzz, obfs-uri=/pq/jp3?ed=2048, tls-verification=true, fast-open=true, udp-relay=false, aead=true, tag=🇯🇵 Japan 05
+
+vmess=162.159.142.203:443, method=aes-128-gcm, password=e4c0684b-a14a-46db-9575-e4062010dea7, obfs=wss, obfs-host=jp1.pqjc.buzz, obfs-uri=/pq/jp1?ed=2048, tls-verification=true, fast-open=true, udp-relay=false, aead=true, tag=🇯🇵 Japan 06
+
+trojan=jp1.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443, password=2cfd70bb-b715-4497-abd5-197764c06269, over-tls=true, tls-verification=false, tls-host=13-251-128-188.nhost.00cdn.com, fast-open=true, udp-relay=false, tag=🇯🇵 Japan 07
+
+trojan=jp2.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443, password=2cfd70bb-b715-4497-abd5-197764c06269, over-tls=true, tls-verification=false, tls-host=13-251-128-188.nhost.00cdn.com, fast-open=true, udp-relay=false, tag=🇯🇵 Japan 08
+
+trojan=148.59.74.190:443, password=e4c0684b-a14a-46db-9575-e4062010dea7, over-tls=true, tls-verification=false, tls-host=vzwzasc.cn, fast-open=true, udp-relay=false, tag=🇺🇸 America 01
+
+trojan=148.59.74.216:443, password=e4c0684b-a14a-46db-9575-e4062010dea7, over-tls=true, tls-verification=false, tls-host=vzwzasc.cn, fast-open=true, udp-relay=false, tag=🇺🇸 America 02
+
+trojan=148.59.74.221:443, password=e4c0684b-a14a-46db-9575-e4062010dea7, over-tls=true, tls-verification=false, tls-host=vzwzasc.cn, fast-open=true, udp-relay=false, tag=🇺🇸 America 03
+
+vmess=zfc.windowsupdate1.com:443, method=aes-128-gcm, password=e4c0684b-a14a-46db-9575-e4062010dea7, obfs=wss, obfs-host=us1.pqjc.buzz, obfs-uri=/pq/us1?ed=2048, tls-verification=true, fast-open=true, udp-relay=false, aead=true, tag=🇺🇸 America 04
+
+trojan=104.149.140.231:443, password=e4c0684b-a14a-46db-9575-e4062010dea7, over-tls=true, tls-verification=false, tls-host=vzwzasc.cn, fast-open=true, udp-relay=false, tag=🇺🇸 America 05
+
+trojan=74.217.179.35:443, password=e4c0684b-a14a-46db-9575-e4062010dea7, over-tls=true, tls-verification=false, tls-host=vzwzasc.cn, fast-open=true, udp-relay=false, tag=🇺🇸 America 06
+
+trojan=us1.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443, password=2cfd70bb-b715-4497-abd5-197764c06269, over-tls=true, tls-verification=false, tls-host=13-251-128-188.nhost.00cdn.com, fast-open=true, udp-relay=false, tag=🇺🇸 America 07
+
+trojan=us2.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443, password=2cfd70bb-b715-4497-abd5-197764c06269, over-tls=true, tls-verification=false, tls-host=13-251-128-188.nhost.00cdn.com, fast-open=true, udp-relay=false, tag=🇺🇸 America 08
+
+trojan=us3.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443, password=2cfd70bb-b715-4497-abd5-197764c06269, over-tls=true, tls-verification=false, tls-host=13-251-128-188.nhost.00cdn.com, fast-open=true, udp-relay=false, tag=🇺🇸 America 09
+
+trojan=us4.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443, password=2cfd70bb-b715-4497-abd5-197764c06269, over-tls=true, tls-verification=false, tls-host=13-251-128-188.nhost.00cdn.com, fast-open=true, udp-relay=false, tag=🇺🇸 America 10
+
+trojan=13.76.85.246:443, password=e4c0684b-a14a-46db-9575-e4062010dea7, over-tls=true, tls-verification=false, tls-host=vzwzasc.cn, fast-open=true, udp-relay=false, tag=🇸🇬 Singapore 01
+
+trojan=4.194.114.58:443, password=e4c0684b-a14a-46db-9575-e4062010dea7, over-tls=true, tls-verification=false, tls-host=vzwzasc.cn, fast-open=true, udp-relay=false, tag=🇸🇬 Singapore 02
+
+vmess=zfc.windowsupdate1.com:443, method=aes-128-gcm, password=e4c0684b-a14a-46db-9575-e4062010dea7, obfs=wss, obfs-host=sg1.pqjc.buzz, obfs-uri=/pq/sg1?ed=2048, tls-verification=true, fast-open=true, udp-relay=false, aead=true, tag=🇸🇬 Singapore 03
+
+vmess=zfc.windowsupdate1.com:443, method=aes-128-gcm, password=e4c0684b-a14a-46db-9575-e4062010dea7, obfs=wss, obfs-host=sg2.pqjc.buzz, obfs-uri=/pq/sg2?ed=2048, tls-verification=true, fast-open=true, udp-relay=false, aead=true, tag=🇸🇬 Singapore 04
+
+vmess=162.159.128.72:443, method=aes-128-gcm, password=e4c0684b-a14a-46db-9575-e4062010dea7, obfs=wss, obfs-host=sg1.pqjc.buzz, obfs-uri=/pq/sg1?ed=2048, tls-verification=true, fast-open=true, udp-relay=false, aead=true, tag=🇸🇬 Singapore 05
+
+trojan=sg1.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443, password=2cfd70bb-b715-4497-abd5-197764c06269, over-tls=true, tls-verification=false, tls-host=13-251-128-188.nhost.00cdn.com, fast-open=true, udp-relay=false, tag=🇸🇬 Singapore 06
+
+trojan=sg2.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443, password=2cfd70bb-b715-4497-abd5-197764c06269, over-tls=true, tls-verification=false, tls-host=13-251-128-188.nhost.00cdn.com, fast-open=true, udp-relay=false, tag=🇸🇬 Singapore 07
+
+trojan=sg3.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443, password=2cfd70bb-b715-4497-abd5-197764c06269, over-tls=true, tls-verification=false, tls-host=13-251-128-188.nhost.00cdn.com, fast-open=true, udp-relay=false, tag=🇸🇬 Singapore 08
+
+trojan=sg4.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443, password=2cfd70bb-b715-4497-abd5-197764c06269, over-tls=true, tls-verification=false, tls-host=13-251-128-188.nhost.00cdn.com, fast-open=true, udp-relay=false, tag=🇸🇬 Singapore 09
+
+trojan=sg5.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443, password=2cfd70bb-b715-4497-abd5-197764c06269, over-tls=true, tls-verification=false, tls-host=13-251-128-188.nhost.00cdn.com, fast-open=true, udp-relay=false, tag=🇸🇬 Singapore 10
+
+trojan=sg6.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443, password=2cfd70bb-b715-4497-abd5-197764c06269, over-tls=true, tls-verification=false, tls-host=13-251-128-188.nhost.00cdn.com, fast-open=true, udp-relay=false, tag=🇸🇬 Singapore 11
+
+trojan=sg7.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443, password=2cfd70bb-b715-4497-abd5-197764c06269, over-tls=true, tls-verification=false, tls-host=13-251-128-188.nhost.00cdn.com, fast-open=true, udp-relay=false, tag=🇸🇬 Singapore 12
+
+trojan=sg8.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443, password=2cfd70bb-b715-4497-abd5-197764c06269, over-tls=true, tls-verification=false, tls-host=13-251-128-188.nhost.00cdn.com, fast-open=true, udp-relay=false, tag=🇸🇬 Singapore 13
+
+vmess=zfc.windowsupdate1.com:443, method=aes-128-gcm, password=e4c0684b-a14a-46db-9575-e4062010dea7, obfs=wss, obfs-host=fr1.pqjc.buzz, obfs-uri=/pq/fr1?ed=2048, tls-verification=true, fast-open=true, udp-relay=false, aead=true, tag=🇫🇷 France 01
+
+trojan=84.252.121.218:443, password=e4c0684b-a14a-46db-9575-e4062010dea7, over-tls=true, tls-verification=false, tls-host=vzwzasc.cn, fast-open=true, udp-relay=false, tag=🇩🇪 Germany 01
+
+trojan=de1.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443, password=2cfd70bb-b715-4497-abd5-197764c06269, over-tls=true, tls-verification=false, tls-host=13-251-128-188.nhost.00cdn.com, fast-open=true, udp-relay=false, tag=🇩🇪 Germany 02
+
+vmess=zfc.windowsupdate1.com:443, method=aes-128-gcm, password=e4c0684b-a14a-46db-9575-e4062010dea7, obfs=wss, obfs-host=nl1.pqjc.buzz, obfs-uri=/pq/nl1?ed=2048, tls-verification=true, fast-open=true, udp-relay=false, aead=true, tag=🇳🇱 Netherlands 01
+
+vmess=162.159.133.98:443, method=aes-128-gcm, password=e4c0684b-a14a-46db-9575-e4062010dea7, obfs=wss, obfs-host=nl1.pqjc.buzz, obfs-uri=/pq/nl1?ed=2048, tls-verification=true, fast-open=true, udp-relay=false, aead=true, tag=🇳🇱 Netherlands 02
