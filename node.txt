@@ -75,6 +75,7 @@ vmess://YXV0bzplNGMwNjg0Yi1hMTRhLTQ2ZGItOTU3NS1lNDA2MjAxMGRlYTdAemZjLndpbmRvd3N1
 # > Germany
 trojan://e4c0684b-a14a-46db-9575-e4062010dea7@84.252.121.218:443?peer=vzwzasc.cn&tfo=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2001
 
+trojan://2cfd70bb-b715-4497-abd5-197764c06269@de1.cf4589a1-71ec-429f-b46a-892af2259b8e.yiyuan.cyou:443?allowInsecure=1&peer=13-251-128-188.nhost.00cdn.com&tfo=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2002
 # > Netherlands
 vmess://YXV0bzplNGMwNjg0Yi1hMTRhLTQ2ZGItOTU3NS1lNDA2MjAxMGRlYTdAemZjLndpbmRvd3N1cGRhdGUxLmNvbTo0NDM?remarks=%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%2001&obfsParam=nl1.pqjc.buzz&path=/pq/nl1?ed=2048&obfs=websocket&tls=1&tfo=1&alterId=0
 
