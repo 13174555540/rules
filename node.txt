@@ -44,4 +44,16 @@ vmess://YXV0bzplNGMwNjg0Yi1hMTRhLTQ2ZGItOTU3NS1lNDA2MjAxMGRlYTdAemZjLndpbmRvd3N1
 
 vmess://YXV0bzplNGMwNjg0Yi1hMTRhLTQ2ZGItOTU3NS1lNDA2MjAxMGRlYTdAMTYyLjE1OS4xMjguNzI6NDQz?remarks=%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2005&obfsParam=sg1.pqjc.buzz&path=/pq/sg1?ed=2048&obfs=websocket&tls=1&tfo=1&alterId=0
 
+# > Turkey
 
+
+# > France
+vmess://YXV0bzplNGMwNjg0Yi1hMTRhLTQ2ZGItOTU3NS1lNDA2MjAxMGRlYTdAemZjLndpbmRvd3N1cGRhdGUxLmNvbTo0NDM?remarks=%F0%9F%87%AB%F0%9F%87%B7%20France%2001&obfsParam=fr1.pqjc.buzz&path=/pq/fr1?ed=2048&obfs=websocket&tls=1&tfo=1&alterId=0
+
+# > Germany
+trojan://e4c0684b-a14a-46db-9575-e4062010dea7@84.252.121.218:443?peer=vzwzasc.cn&tfo=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2001
+
+# > Netherlands
+vmess://YXV0bzplNGMwNjg0Yi1hMTRhLTQ2ZGItOTU3NS1lNDA2MjAxMGRlYTdAemZjLndpbmRvd3N1cGRhdGUxLmNvbTo0NDM?remarks=%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%2001&obfsParam=nl1.pqjc.buzz&path=/pq/nl1?ed=2048&obfs=websocket&tls=1&tfo=1&alterId=0
+
+vmess://YXV0bzplNGMwNjg0Yi1hMTRhLTQ2ZGItOTU3NS1lNDA2MjAxMGRlYTdAMTYyLjE1OS4xMzMuOTg6NDQz?remarks=%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%2002&obfsParam=nl1.pqjc.buzz&path=/pq/nl1?ed=2048&obfs=websocket&tls=1&tfo=1&alterId=0
