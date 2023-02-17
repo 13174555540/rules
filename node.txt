@@ -3,3 +3,4 @@ vmess=v-mess.Hx5555.repl.co:443, method=aes-128-gcm, password=aff1df05-8b84-4b35
 trojan=xray-trojanwstls.r5qtwwvhv9.repl.co:443, password=61e0b0a8-a3ac-45e8-9e82-f49598ed0a4b, obfs=wss, obfs-host=xray-trojanwstls.r5qtwwvhv9.repl.co, obfs-uri=/61e0b0a8-a3ac-45e8-9e82-f49598ed0a4b, tls-verification=false, fast-open=false, udp-relay=false, tag=🇮🇳印度01
 vmess=xray-vmesswstls.r5qtwwvhv9.repl.co:443, method=aes-128-gcm, password=ef47ed2e-3a24-40cf-86c6-3e9fcd8b6fec, obfs=wss, obfs-host=xray-vmesswstls.r5qtwwvhv9.repl.co, obfs-uri=/ef47ed2e-3a24-40cf-86c6-3e9fcd8b6fec, tls-verification=false, fast-open=false, udp-relay=false, aead=true, tag=🇮🇳印度02
 
+trojan://e4c0684b-a14a-46db-9575-e4062010dea7@20.222.228.18:443?peer=vzwzasc.cn&tfo=1#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2001
