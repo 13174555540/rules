@@ -3,6 +3,28 @@
 # > 更新时间  2023.02.03  22:17
 # > */  
 
+# > emby
+host, cdn.misakaf.org, 国际媒体
+
+# > 屏蔽系统更新
+host, mesu.apple.com, reject
+host, gdmf.apple.com, reject
+host, updates-http.cdn-apple.com, reject
+
+# > 一些比较容易忽视的分流
+host-suffix, kuwo.cn, direct
+host, ad.12306.cn, direct
+host, gg.caixin.com, direct
+host, sdkapp.uve.weibo.com, direct
+host-suffix, u3.ucweb.com, reject
+host, amdc.m.taobao.com, reject
+
+# > 贴吧屏蔽域名dns查询
+ip-cidr, 180.76.76.200/32, reject
+
+# > B站自动换区
+ip-cidr, 203.107.1.1/24, reject
+
 # > 番茄小说
 host, p6-ad-sign.byteimg.com, reject
 host, p9-ad-sign.byteimg.com, reject
