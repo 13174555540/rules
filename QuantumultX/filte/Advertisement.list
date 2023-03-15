@@ -1,5 +1,3 @@
-# > /*  APP开屏广告拦截，APP启动广告拦截！
-# > 某些APP要清除缓存或者重新安装APP，拦截广告才会生效！  
 # > 更新时间  2023.02.03  22:17
 # > */  
 
@@ -26,48 +24,4 @@ ip-cidr, 180.76.76.200/32, reject
 ip-cidr, 203.107.1.1/24, reject
 
 # > 番茄小说
-host, p6-ad-sign.byteimg.com, reject
-host, p9-ad-sign.byteimg.com, reject
-host-suffix, byteimg.com, direct
-host, i.snssdk.com, reject
-host, i-lq.snssdk.com, reject
-host, dig.bdurl.net, reject
-host-suffix, zijieapi.com, reject
-host, activity-ag.awemeughun.com, reject
-host, mcs.snssdk.com, reject
-host, tnc3-alisc1.snssdk.com, reject
-host, security-lq.snssdk.com, reject
-host, tnc3-aliec2.snssdk.com, reject
-host, is.snssdk.com, reject
-host, msync-im1-vip6-std.easemob.com, reject
-host, apd-pcdnwxlogin.teg.tencent-cloud.net, reject
-host, api.iegadp.qq.com, reject
-host, sf3-ttcdn-tos.pstatp.com, reject
-host-suffix, pglstatp-toutiao.com, reject
-host, *default.ixigua.com, reject
-host, v6-novelapp.ixigua.com, reject
-host, *novelapp.ixigua.com, reject
-host-suffix, byteorge.com, reject
-host-suffix, bytegoofy.com, reject
-host-suffix, bytedance.com, reject
-ip-cidr, 49.71.37.101/32, reject
-ip-cidr, 117.71.105.23/32, reject
-ip-cidr, 218.94.207.205/32, reject
-ip-cidr, 117.92.229.188/32, reject
-ip-cidr, 101.36.166.16/32, reject
-ip-cidr, 180.96.2.114/32, reject
-# > 番茄小说福利页
-host, lf-sourcecdn-tos.bytegecko.com, direct
-
-# > 微博开屏广告
-host, sdkapp.uve.weibo.com, direct
-
-# > 高德地图广告
-host, amdc.m.taobao.com, reject
-
-# > 菜鸟裹裹@ddgksf2013
-;host, amdc.m.taobao.com, reject
-
-# > 微博@ddgksf2013
-; host, sdkapp.uve.weibo.com, direct
-
+host, p6-ad-sign.byteimg.com
