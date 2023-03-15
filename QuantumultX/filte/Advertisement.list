@@ -23,5 +23,3 @@ ip-cidr, 180.76.76.200/32, reject
 # > B站自动换区
 ip-cidr, 203.107.1.1/24, reject
 
-# > 番茄小说
-host, p6-ad-sign.byteimg.com
