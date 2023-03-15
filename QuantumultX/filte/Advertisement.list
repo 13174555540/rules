@@ -65,12 +65,6 @@ host, sdkapp.uve.weibo.com, direct
 # > 高德地图广告
 host, amdc.m.taobao.com, reject
 
-# > 12306去广告
-host, ad.12306.cn, direct
-
-# > 酷我去广告
-host-suffix, kuwo.cn, direct
-
 # > 菜鸟裹裹@ddgksf2013
 ;host, amdc.m.taobao.com, reject
 
