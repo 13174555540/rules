@@ -2,7 +2,8 @@
 # > */  
 
 # > emby
-host, cdn.misakaf.org, 国际媒体
+host, emby.10086.help, 手动选择
+host, cdn.misakaf.org, 手动选择
 
 # > 屏蔽系统更新
 host, mesu.apple.com, reject
