@@ -2,6 +2,7 @@
 # > */  
 
 # > emby
+ip-cidr, 94.16.112.195/24, 手动选择
 host, emby.10086.help, 手动选择
 host, cdn.misakaf.org, 手动选择
 
