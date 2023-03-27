@@ -4,7 +4,8 @@
 # > emby
 ip-cidr, 94.16.112.195/24, 手动选择
 host, emby.10086.help, 手动选择
-host, cdn.misakaf.org, 手动选择
+host, cf3.misakaf.org, 手动选择
+host, cdn.misakaf.org, direct
 
 # > 屏蔽系统更新
 host, mesu.apple.com, reject
