@@ -1,12 +1,13 @@
-  - {name: 🇰🇷 韩国Emby Node 0.01x, server: 54.180.141.87, port: 2023, type: trojan, password: dc420f05-b731-4e4d-9534-7f763ae0ef94, sni: bilibili.com, skip-cert-verify: false, udp: true}
-  - {name: 🇭🇰 香港港式杨枝甘露, server: wybgp.10086.network, port: 12301, type: ss, cipher: chacha20-ietf-poly1305, password: dc420f05-b731-4e4d-9534-7f763ae0ef94, udp: true}
-  - {name: 🇨🇳 台湾大腸（蚵仔）麵線, server: wybgp.10086.network, port: 12303, type: ss, cipher: chacha20-ietf-poly1305, password: dc420f05-b731-4e4d-9534-7f763ae0ef94, udp: true}
-  - {name: 🇯🇵 日本すき焼き, server: wybgp.10086.network, port: 12305, type: ss, cipher: chacha20-ietf-poly1305, password: dc420f05-b731-4e4d-9534-7f763ae0ef94, udp: true}
-  - {name: 🇰🇷 韩国한국식 볶음밥, server: wybgp.10086.network, port: 12307, type: ss, cipher: chacha20-ietf-poly1305, password: dc420f05-b731-4e4d-9534-7f763ae0ef94, udp: true}
-  - {name: 🇺🇸 美国Crazy4, server: wybgp.10086.network, port: 12309, type: ss, cipher: chacha20-ietf-poly1305, password: dc420f05-b731-4e4d-9534-7f763ae0ef94, udp: true}
-  - {name: 🇸🇬 狮城發起人肉骨茶, server: wybgp.10086.network, port: 12311, type: ss, cipher: chacha20-ietf-poly1305, password: dc420f05-b731-4e4d-9534-7f763ae0ef94, udp: true}
-  - {name: 🇯🇵 日本大阪 华北 0.5x, server: henancu.cndns.shop, port: 20771, type: ss, cipher: chacha20-ietf-poly1305, password: dc420f05-b731-4e4d-9534-7f763ae0ef94, udp: true}
-  - {name: 🇺🇸 美国圣何塞 华北 0.5x, server: henancu.cndns.shop, port: 20881, type: ss, cipher: chacha20-ietf-poly1305, password: dc420f05-b731-4e4d-9534-7f763ae0ef94, udp: true}
+shadowsocks=wybgp.10086.network:12301, method=chacha20-ietf-poly1305, password=dc420f05-b731-4e4d-9534-7f763ae0ef94, fast-open=true, udp-relay=true, tag=香港
+shadowsocks=wybgp.10086.network:12303, method=chacha20-ietf-poly1305, password=dc420f05-b731-4e4d-9534-7f763ae0ef94, fast-open=true, udp-relay=true, tag=台湾
+shadowsocks=wybgp.10086.network:12305, method=chacha20-ietf-poly1305, password=dc420f05-b731-4e4d-9534-7f763ae0ef94, fast-open=true, udp-relay=true, tag=日本
+shadowsocks=wybgp.10086.network:12307, method=chacha20-ietf-poly1305, password=dc420f05-b731-4e4d-9534-7f763ae0ef94, fast-open=true, udp-relay=true, tag=韩国
+shadowsocks=wybgp.10086.network:12309, method=chacha20-ietf-poly1305, password=dc420f05-b731-4e4d-9534-7f763ae0ef94, fast-open=true, udp-relay=true, tag=美国
+shadowsocks=wybgp.10086.network:12311, method=chacha20-ietf-poly1305, password=dc420f05-b731-4e4d-9534-7f763ae0ef94, fast-open=true, udp-relay=true, tag=新加坡
+shadowsocks=henancu.cndns.shop:20775, method=chacha20-ietf-poly1305, password=dc420f05-b731-4e4d-9534-7f763ae0ef94, fast-open=true, udp-relay=true, tag=日本 华北
+shadowsocks=henancu.cndns.shop:20773, method=chacha20-ietf-poly1305, password=dc420f05-b731-4e4d-9534-7f763ae0ef94, fast-open=true, udp-relay=true, tag=美国 华北
+shadowsocks=154.18.161.43:47751, method=aes-256-gcm, password=30Dhy7hjEl, fast-open=true, udp-relay=true, tag=香港 自建
+
 
 
 
