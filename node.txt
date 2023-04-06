@@ -1,9 +1,1 @@
-shadowsocks=wybgp.10086.network:12301, method=chacha20-ietf-poly1305, password=dc420f05-b731-4e4d-9534-7f763ae0ef94, fast-open=true, udp-relay=true, tag=香港
-shadowsocks=wybgp.10086.network:12303, method=chacha20-ietf-poly1305, password=dc420f05-b731-4e4d-9534-7f763ae0ef94, fast-open=true, udp-relay=true, tag=台湾
-shadowsocks=wybgp.10086.network:12305, method=chacha20-ietf-poly1305, password=dc420f05-b731-4e4d-9534-7f763ae0ef94, fast-open=true, udp-relay=true, tag=日本
-shadowsocks=wybgp.10086.network:12307, method=chacha20-ietf-poly1305, password=dc420f05-b731-4e4d-9534-7f763ae0ef94, fast-open=true, udp-relay=true, tag=韩国
-shadowsocks=wybgp.10086.network:12309, method=chacha20-ietf-poly1305, password=dc420f05-b731-4e4d-9534-7f763ae0ef94, fast-open=true, udp-relay=true, tag=美国
-shadowsocks=wybgp.10086.network:12311, method=chacha20-ietf-poly1305, password=dc420f05-b731-4e4d-9534-7f763ae0ef94, fast-open=true, udp-relay=true, tag=新加坡
-shadowsocks=henancu.cndns.shop:20775, method=chacha20-ietf-poly1305, password=dc420f05-b731-4e4d-9534-7f763ae0ef94, fast-open=true, udp-relay=true, tag=日本 华北
-shadowsocks=henancu.cndns.shop:20773, method=chacha20-ietf-poly1305, password=dc420f05-b731-4e4d-9534-7f763ae0ef94, fast-open=true, udp-relay=true, tag=美国 华北
-shadowsocks=154.18.161.43:47751, method=aes-256-gcm, password=30Dhy7hjEl, fast-open=true, udp-relay=true, tag=香港 自建
+
