@@ -9,7 +9,12 @@ host, cf3.misakaf.org, 手动选择
 host, cdn.misakaf.org, direct
 
 # > Goole Voice
-DOMAIN, lens.l.google.com, 美国节点
+host, lens.l.google.com, 美国节点
+
+# > ChatGPT
+host-keyword, openai, 美国节点
+host-suffix , identrust.com, 美国节点
+host-suffix , auth0.com, 美国节点
 
 # > 屏蔽系统更新
 host, mesu.apple.com, reject
