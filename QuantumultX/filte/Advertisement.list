@@ -9,6 +9,9 @@ host, emby.10086.help, 手动选择
 host, cf3.misakaf.org, 手动选择
 host, cdn.misakaf.org, direct
 
+# > Goole Voice
+DOMAIN, lens.l.google.com, 美国节点
+
 # > 屏蔽系统更新
 host, mesu.apple.com, reject
 host, gdmf.apple.com, reject
