@@ -3,6 +3,7 @@
 # > emby
 ip-cidr, 94.16.112.195/24, 手动选择
 ip-cidr, 111.20.35.103/24, 手动选择
+host, ju.dog, 手动选择
 host, bili.bili.rip, 手动选择
 host, emby.10086.help, 手动选择
 host, cf3.misakaf.org, 手动选择
